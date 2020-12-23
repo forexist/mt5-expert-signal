@@ -11,23 +11,23 @@
 // wizard description start
 //+------------------------------------------------------------------+
 //| Description of the class                                         |
-//| Title=Signals of indicator 'Adaptive Moving Average'             |
+//| Title=Signals of indicator RANDOM FUCKER!                        |
 //| Type=SignalAdvanced                                              |
-//| Name=Adaptive Moving Average                                     |
-//| ShortName=AMA                                                    |
-//| Class=CSignalAMA                                                 |
-//| Page=signal_ama                                                  |
-//| Parameter=PeriodMA,int,10,Period of averaging                    |
-//| Parameter=PeriodFast,int,2,Period of fast EMA                    |
-//| Parameter=PeriodSlow,int,30,Period of slow EMA                   |
-//| Parameter=Shift,int,0,Time shift                                 |
-//| Parameter=Applied,ENUM_APPLIED_PRICE,PRICE_CLOSE,Prices series   |
+//| Name=Random Buy Sell Indicator                                   |
+//| ShortName=RND                                                    |
+//| Class=CSignalRND                                                 |
+//| Page=signal_RND                                                  |
+//| Parameter=PeriodMA,int,10,Period of averaging                    |This line will be deleted 
+//| Parameter=PeriodFast,int,2,Period of fast EMA                    |This line will be deleted 
+//| Parameter=PeriodSlow,int,30,Period of slow EMA                   |This line will be deleted 
+//| Parameter=Shift,int,0,Time shift                                 |This line will be deleted 
+//| Parameter=Applied,ENUM_APPLIED_PRICE,PRICE_CLOSE,Prices series   |This line will be deleted 
 //+------------------------------------------------------------------+
 // wizard description end
 //+------------------------------------------------------------------+
-//| Class CSignalAMA.                                                |
+//| Class CSignalRND.                                                |
 //| Purpose: Class of generator of trade signals based on            |
-//|          the 'Adaptive Moving Average' indicator.                |
+//|          the 'RANDOM FARTS' indicator.                           |
 //| Is derived from the CExpertSignal class.                         |
 //+------------------------------------------------------------------+
 class amoo_001 : public CExpertSignal
